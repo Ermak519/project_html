@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.promo{
+    background: url('../img/bg/background.png') center center/cover no-repeat;
+    height: 800px;
+    padding: 39px 0 62px 0;
+}
+
+.logo .logo_img{
+    display: block;
+    margin: 0 auto;
+}
+
+.logo .logo_text{
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 14px;
+    
+}
+
+h1{
+    margin-top: 53px;
+}
+
+.title{
+    font-family: "Roboto";
+    font-size: 41px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: normal;
+    text-align: center;
+    text-transform: uppercase;
+    color: #f9bf3b;
+    margin-top: 21px;
+}
+
+.simple .title_big{
+    font-family: "Roboto-Black";
+    font-size: 80px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 21px;
+}
+
+h2.title{
+    margin-top: 30px;
+}
